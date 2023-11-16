@@ -10,7 +10,6 @@ li {
   float: left;
 }
 
-/*
 li a {
   display: block;
   color: white;
@@ -19,6 +18,7 @@ li a {
   text-decoration: none;
 }
 /* change the link color to #111 (black) on nhover */
+/*
 li a:hover {
   background-color: #111;
 }
