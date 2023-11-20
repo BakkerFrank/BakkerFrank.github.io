@@ -1,9 +1,11 @@
 
-E {color:blue; font-size:12px;}
+body {
+  background-color: lightblue;
+}
 
-ste {
-  text-align: center;
-  color: red;
+h1 {
+  color: navy;
+  margin-left: 20px;
 }
 
 /* change the link color to #111 (black) on nhover */
