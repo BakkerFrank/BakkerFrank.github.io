@@ -1,0 +1,19 @@
+/* een effen kleur achtergrond *?
+body {
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+/* achtergrond met een afbeelding */
+body.background-image {
+  background-image: url('path/to/your/image.jpg');
+  background-size: cover;  /* zorgt ervoor dat de afbeelding de hele achtergrond bedekt */
+background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* achtergrond met een gradient */
+body.background-gradient {
+  background: linear-gradient(to right, #ff7e5f, #feb47b);
+}
