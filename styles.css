@@ -7,7 +7,7 @@ body {
 
 /* achtergrond met een afbeelding */
 body.background-image {
-  background-image: url('path/to/your/image.jpg');
+  background-image: url('img_chania.jpg');
   background-size: cover;  /* zorgt ervoor dat de afbeelding de hele achtergrond bedekt */
 background-repeat: no-repeat;
   background-position: center;
